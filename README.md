@@ -6,6 +6,9 @@ Sou consultor de cosméticos com mais de 10 anos de experiência trabalhando com
 
 ## Estrutura do Repositório
 - **inputs/**: Contém as imagens utilizadas no portfólio.
+  !Texto Alternativo
+
+inputs/Biografia Fem.jpg
 - **output/**: Contém os resultados de reconhecimento de texto das imagens.
 
 ## Processo
